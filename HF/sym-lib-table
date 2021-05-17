@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Reoforo)(type Legacy)(uri ${KIPRJMOD}/Reoforo.lib)(options "")(descr ""))
+  (lib (name HF-rescue)(type Legacy)(uri ${KIPRJMOD}/HF-rescue.lib)(options "")(descr ""))
+)
