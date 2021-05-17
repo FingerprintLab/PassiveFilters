@@ -30,7 +30,7 @@ U 1 1 60A11C57
 P 5200 3750
 F 0 "LA1" V 4935 3750 50  0000 C CNN
 F 1 "1,5Ω" V 5026 3750 50  0000 C CNN
-F 2 "" V 5200 3850 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_Power_L38.0mm_W9.0mm_P45.72mm" V 5200 3850 50  0001 C CNN
 F 3 "~" V 5200 3850 50  0001 C CNN
 	1    5200 3750
 	0    1    1    0   
@@ -203,32 +203,4 @@ F 3 "" H 7150 4350 50  0001 C CNN
 	1    7150 4350
 	1    0    0    -1  
 $EndComp
-$Comp
-L Reoforo:Reoforo U2
-U 1 1 60A1685A
-P 4150 2700
-F 0 "U2" H 4050 2750 50  0000 L CNN
-F 1 "1-" H 4278 2677 50  0000 L CNN
-F 2 "SpeakON:Reoforo" H 4150 2700 50  0001 C CNN
-F 3 "" H 4150 2700 50  0001 C CNN
-	1    4150 2700
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4150 2700 3800 2700
-Connection ~ 3800 2700
-$Comp
-L Reoforo:Reoforo U1
-U 1 1 60A186D9
-P 2600 3750
-F 0 "U1" H 2500 3800 50  0000 L CNN
-F 1 "1+" H 2728 3727 50  0000 L CNN
-F 2 "SpeakON:Reoforo" H 2600 3750 50  0001 C CNN
-F 3 "" H 2600 3750 50  0001 C CNN
-	1    2600 3750
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	2600 3750 2750 3750
-Connection ~ 2750 3750
 $EndSCHEMATC
