@@ -1,4 +1,4 @@
-19122104694354922
+19125347352914586
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -73660,6 +73660,20 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+RES
+inductor_40mm
+
+
+0
+2
+2
+RES
+resistor_P27.50mm
+
+
+0
+2
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
