@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name SpeakON)(type KiCad)(uri C:/Users/Ralf/OneDrive/Documenti/Electronics/PassiveFilters/SpeakON.pretty)(options "")(descr ""))
+  (lib (name RES)(type KiCad)(uri C:/Users/Ralf/OneDrive/Documenti/Electronics/PassiveFilters/RES.pretty)(options "")(descr ""))
+  (lib (name PassiveFilters)(type KiCad)(uri C:/Users/Ralf/OneDrive/Documenti/Electronics/PassiveFilters/PassiveFilters.pretty)(options "")(descr ""))
 )
