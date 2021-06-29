@@ -1,4 +1,4 @@
-19028794535317345
+19033668713214345
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -73542,6 +73542,13 @@ Potentiometer vertical Vishay T73YP
 3
 3
 RES
+Faston_01x04_P5.08mm_D5.08mm
+
+
+0
+0
+0
+RES
 Faston_DUAL_01x02_P5.08mm_D5.08mm
 
 
@@ -73555,6 +73562,20 @@ Faston_DUAL_01x02_P7.62mm_D5.08mm
 0
 4
 2
+RES
+PhoenixContact_STP_2,5_4-H-5,0
+
+
+0
+8
+4
+RES
+Phoenix_ZFKDSA_2,5_5,08_4
+
+
+0
+8
+4
 RES
 cps22
 

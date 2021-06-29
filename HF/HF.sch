@@ -136,7 +136,7 @@ U 1 1 60A1DB57
 P 3800 3750
 F 0 "J2" V 3319 3750 50  0000 C CNN
 F 1 "NL4MP-M3" V 3410 3750 50  0000 C CNN
-F 2 "SpeakON:NL4MP-M3" H 3800 3750 50  0001 C CNN
+F 2 "SpeakON:NL4MP-M3_double_left" H 3800 3750 50  0001 C CNN
 F 3 "http://www.neutrik.com/en/speakon/" H 3800 3750 50  0001 C CNN
 	1    3800 3750
 	0    -1   1    0   
@@ -151,7 +151,7 @@ U 1 1 60A21746
 P 3100 3050
 F 0 "J1" V 2619 3050 50  0000 C CNN
 F 1 "NL4MP-M3" V 2710 3050 50  0000 C CNN
-F 2 "SpeakON:NL4MP-M3" H 3100 3050 50  0001 C CNN
+F 2 "SpeakON:NL4MP-M3_double_left" H 3100 3050 50  0001 C CNN
 F 3 "http://www.neutrik.com/en/speakon/" H 3100 3050 50  0001 C CNN
 	1    3100 3050
 	0    -1   1    0   
